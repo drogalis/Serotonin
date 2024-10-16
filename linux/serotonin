@@ -1,0 +1,39 @@
+
+default partial
+xkb_symbols "basic" {
+    include "us(basic)"
+
+    name[Group1] = "Seritonin";
+
+    key <AD01> {[ b, B ]};
+    key <AD02> {[ l, L ]};
+    key <AD03> {[ d, D ]};
+    key <AD04> {[ w, W ]};
+    key <AD05> {[ j, J ]};
+    key <AD06> {[ slash, question ]};
+    key <AD07> {[ f, F ]};
+    key <AD08> {[ o, O ]};
+    key <AD09> {[ u, U ]};
+    key <AD10> {[ y, Y ]};
+    key <AC01> {[ n, N ]};
+    key <AC02> {[ r, R ]};
+    key <AC03> {[ t, T ]};
+    key <AC04> {[ c, C ]};
+    key <AC05> {[ g, G ]};
+    key <AC06> {[ k, K ]};
+    key <AC07> {[ s, S ]};
+    key <AC08> {[ a, A ]};
+    key <AC09> {[ i, I ]};
+    key <AC10> {[ h, H ]};
+    key <AC11> {[ apostrophe, quotedbl ]};
+    key <AB01> {[ q, Q ]};
+    key <AB02> {[ x, X ]};
+    key <AB03> {[ m, M ]};
+    key <AB04> {[ p, P ]};
+    key <AB05> {[ z, Z ]};
+    key <AB06> {[ backslash, bar ]};
+    key <AB07> {[ v, V ]};
+    key <AB08> {[ comma, less ]};
+    key <AB09> {[ period, greater ]};
+    key <AB10> {[ semicolon, colon ]};
+};

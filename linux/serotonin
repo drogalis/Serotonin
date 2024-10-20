@@ -14,13 +14,13 @@ xkb_symbols "basic" {
     key <AD07> {[ f, F ]};
     key <AD08> {[ o, O ]};
     key <AD09> {[ u, U ]};
-    key <AD10> {[ y, Y ]};
+    key <AD10> {[ k, K ]};
     key <AC01> {[ n, N ]};
     key <AC02> {[ r, R ]};
     key <AC03> {[ t, T ]};
     key <AC04> {[ c, C ]};
     key <AC05> {[ g, G ]};
-    key <AC06> {[ k, K ]};
+    key <AC06> {[ v, V ]};
     key <AC07> {[ s, S ]};
     key <AC08> {[ a, A ]};
     key <AC09> {[ i, I ]};
@@ -32,7 +32,7 @@ xkb_symbols "basic" {
     key <AB04> {[ p, P ]};
     key <AB05> {[ z, Z ]};
     key <AB06> {[ backslash, bar ]};
-    key <AB07> {[ v, V ]};
+    key <AB07> {[ y, Y ]};
     key <AB08> {[ comma, less ]};
     key <AB09> {[ period, greater ]};
     key <AB10> {[ semicolon, colon ]};
